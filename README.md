@@ -15,7 +15,7 @@
 - <b>Cyber Intelligence Prep of the Operational Environment (Step-by-Step Guide)</b>
   - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Whitepaper: Intelligence Paper](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Cvber Research Links](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Team Setup</b>
   - [How to setup a Microsoft Team Channel for CTI](https://github.com/joshmadakorcc/configure-ad)
   - [How to build a CTI report for Incident Response](https://github.com/joshmadakorcc/azure-network-protocols)
