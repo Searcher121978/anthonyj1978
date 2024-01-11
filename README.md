@@ -18,7 +18,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Team Setup</b>
   - [How to setup a Microsoft Team Channel for CTI](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How to build a CTI report for Incident Response](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
 <h2>🤳Connect with me:</h2>
