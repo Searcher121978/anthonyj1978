@@ -12,12 +12,12 @@
     
 <h2>👨‍💻 Cyber Threat Intelligence:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+- <b>Cyber Intelligence Prep of the Operational Environment (Step-by-Step Guide)</b>
+  - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Whitepaper: Intelligence Paper](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- <b>Microsoft Team Setup</b>
+  - [How to setup a Microsoft Team Channel for CTI](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
