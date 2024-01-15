@@ -13,12 +13,12 @@
 <h2>👨‍💻 Cyber Threat Intelligence:</h2>
 
 - <b>Cyber Intelligence Prep of the Operational Environment (Step-by-Step Guide)</b>
-  - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Whitepaper: Intelligence Paper](https://github.com/joshmadakorcc/post-install-config)
-  - [Cvber Research Links](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IPOE)
+  - [Whitepaper: Intelligence Paper](https://github.com/Searcher121978/post-install-config)
+  - [Cvber Research Links](https://github.com/Searcher121978/ticket-lifecycle)
 - <b>Microsoft Team Setup</b>
-  - [How to setup a Microsoft Team Channel for CTI](https://github.com/joshmadakorcc/configure-ad)
-  - [How to build a CTI report for Incident Response](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How to setup a Microsoft Team Channel for CTI](https://github.com/Searcher121978/configure-ad)
+  - [How to build a CTI report for Incident Response](https://github.com/Searcher121978/azure-network-protocols)
 
 
 <h2>🤳Connect with me:</h2>
