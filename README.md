@@ -13,7 +13,7 @@
 <h2>👨‍💻 Cyber Threat Intelligence:</h2>
 
 - <b>Cyber Intelligence Prep of the Operational Environment (Step-by-Step Guide)</b>
-  - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IPOE)
+  - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IntelPOE)
   - [Whitepaper: Intelligence Paper](https://github.com/Searcher121978/post-install-config)
   - [Cvber Research Links](https://github.com/Searcher121978/ticket-lifecycle)
 - <b>Microsoft Team Setup</b>
