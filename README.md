@@ -16,7 +16,7 @@
   - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IntelPOE)
   - [Cvber Research Links](https://github.com/Searcher121978/ticket-lifecycle)
 - <b>Microsoft Team Setup</b>
-  - [How to set up a Microsoft Team Channel for CTI](https://github.com/Searcher121978/configure-ad) (Use this image as an example)
+  - [How to set up a Microsoft Team Channel for CTI](https://github.com/Searcher121978/configure-ad) **(Use this image as an example)**
  
 
 <h2>🤳Connect with me:</h2>
