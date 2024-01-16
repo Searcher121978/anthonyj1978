@@ -16,7 +16,7 @@
   - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IntelPOE)
   
 - <b>Microsoft Team Setup</b>
-  - [How to set up a Microsoft Team Channel for CTI](https://github.com/Searcher121978/configure-ad) **(Use this image as an example)**
+  - [Intelligence support to the United States Air Force Cyberspace Protection Teams (CPTs)](https://github.com/Searcher121978/configure-ad)
   - **[Military example of CTI]**![image](https://github.com/Searcher121978/anthonyj1978/assets/124515149/30afadb5-051f-4d5d-8d7b-89572cad413c)
  
 
