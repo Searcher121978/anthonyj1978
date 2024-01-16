@@ -14,7 +14,7 @@
 
 - <b>Cyber Intelligence Prep of the Operational Environment (Step-by-Step Guide)</b>
   - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IntelPOE)
-  - **Military example of CTI**![image](https://github.com/Searcher121978/anthonyj1978/assets/124515149/30afadb5-051f-4d5d-8d7b-89572cad413c)
+- <b>**Military example of CTI**![image](https://github.com/Searcher121978/anthonyj1978/assets/124515149/30afadb5-051f-4d5d-8d7b-89572cad413c)
  
 
 <h2>🤳Connect with me:</h2>
