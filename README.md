@@ -1,7 +1,7 @@
 <h1>Hi, I'm Anthony, an <a href="www.linkedin.com">IT Professional/Cyber Threat Intelligence/Cybersecurity Advisor</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>Creating a Resource Group and Virtual Machine in Microsoft Azure</b>
+- <b>Creating a Resource Group and Virtual Machine in Microsoft Azure (click on the link below for outline and video)</b>
 
   - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group)
 - <b>osTicket (Help Desk Ticketing System)</b>
