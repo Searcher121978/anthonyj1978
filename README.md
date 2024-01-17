@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>Creating a Resource Group and Virtual Machine in Microsoft Azure</b>
 
-  - [osTicket: Prerequisites and Installation](https://github.com/Searcher121978/osticket-prereqs)
+  - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/osticket-prereqs)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Searcher121978/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
