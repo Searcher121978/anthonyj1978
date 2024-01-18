@@ -1,7 +1,7 @@
 <h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/anthony-l-jones-m-s-04a2a7258">IT Professional/Cyber Threat Intelligence/Cybersecurity Advisor</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-   <b>Creating a Resource Group and Virtual Machine, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for outline and video)</b>
+   <b>Creating a Resource Group and Virtual Machine, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for an outline and YouTube video link)</b>
 
   - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group)
   - [Observe ICMP Traffic](https://github.com/Searcher121978/Observe-ICMP-Traffic)
