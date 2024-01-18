@@ -1,13 +1,12 @@
 <h1>Hi, I'm Anthony, an <a href="www.linkedin.com">IT Professional/Cyber Threat Intelligence/Cybersecurity Advisor</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>Creating a Resource Group and Virtual Machine in Microsoft Azure (click on the link below for outline and video)</b>
+   <b>Creating a Resource Group and Virtual Machine, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for outline and video)</b>
 
   - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Searcher121978/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Virtual Private Networks (VPNs): VPN Setup and Usage (Proton VPN)](https://github.com/Searcher121978/VPN-setup)
+  - [Deploying Active Directory and Creating Users](https://github.com/joshmadakorcc/Deploying-Active-Directory-and-Creating-Users)
+  - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-RDP-Traffic)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
