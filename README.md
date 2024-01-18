@@ -4,12 +4,17 @@
    <b>Creating a Resource Group and Virtual Machine, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for outline and video)</b>
 
   - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group)
+  - [Observe ICMP Traffic](https://github.com/Searcher121978/Observe-ICMP-Traffic)
+  - [Observe SSH Traffic](https://github.com/Searcher121978/Observe-SSH-Traffic)
+  - [Observe DHCP Traffic](https://github.com/Searcher121978/Observe-DHCP-Traffic)
+  - [Observe DNS Traffic](https://github.com/Searcher121978/Observe-DNS-Traffic)
+  - [Observe RDP Traffic](https://github.com/Searcher121978/Observe-RDP-Traffic)
   - [Virtual Private Networks (VPNs): VPN Setup and Usage (Proton VPN)](https://github.com/Searcher121978/VPN-setup)
   - [Deploying Active Directory and Creating Users](https://github.com/joshmadakorcc/Deploying-Active-Directory-and-Creating-Users)
   - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-RDP-Traffic)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observe RDP traffic](https://github.com/Searcher121978/Observe-RDP-Traffic)
+  - [Network File Shares and Permissions](https://github.com/Searcher121978/network-filek-shares-and-permissions)
+ 
     
 <h2>👨‍💻 Cyber Threat Intelligence Projects:</h2>
 
