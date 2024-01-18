@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony, an <a href="www.linkedin.com">IT Professional/Cyber Threat Intelligence/Cybersecurity Advisor</a>☺</h1>
+<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/anthony-l-jones-m-s-04a2a7258">IT Professional/Cyber Threat Intelligence/Cybersecurity Advisor</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
    <b>Creating a Resource Group and Virtual Machine, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for outline and video)</b>
