@@ -11,7 +11,7 @@
   - [Observe RDP Traffic](https://github.com/Searcher121978/Observe-RDP-Traffic)
   - [Virtual Private Networks (VPNs): VPN Setup and Usage (Proton VPN)](https://github.com/Searcher121978/VPN-setup)
   - [Deploying Active Directory and Creating Users](https://github.com/joshmadakorcc/Deploying-Active-Directory-and-Creating-Users)
-  - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-RNS-Traffic)
+  - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-DNS-Traffic)
   - [Observe RDP traffic](https://github.com/Searcher121978/Observe-RDP-Traffic)
   - [Network File Shares and Permissions](https://github.com/Searcher121978/network-filek-shares-and-permissions)
  
