@@ -22,7 +22,7 @@
   - [Powerpoint: Cyber Intelligence Prep of the Operational Environment](https://github.com/Searcher121978/cyber-IntelPOE)
 - <b>**Example Powerpoint slide of military CTI**![image](https://github.com/Searcher121978/anthonyj1978/assets/124515149/30afadb5-051f-4d5d-8d7b-89572cad413c)
  
-[https://clipchamp.com/watch/5pSRcVe89aZ]
+[https://www.youtube.com/watch?v=cE1FfOh2H_k]
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
