@@ -4,6 +4,7 @@
    <b>Creating a Virtual Machine and Resource Group, Virtual Private Network (VPN), Active Directory, Domain Name System (DNS), Network File Shares and Permissions and more in Microsoft Azure (click on the link below for an outline and YouTube video link)</b>
 
   - [Resource Group and Virtual Machine creation](https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group)
+  - [Remote Desktop Connection](https://github.com/Searcher121978/Observe-ICMP-Traffic)
   - [Observe ICMP Traffic](https://github.com/Searcher121978/Observe-ICMP-Traffic)
   - [Observe SSH Traffic](https://github.com/Searcher121978/Observe-SSH-Traffic)
   - [Observe DHCP Traffic](https://github.com/Searcher121978/Observe-DHCP-Traffic)
