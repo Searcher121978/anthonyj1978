@@ -13,7 +13,6 @@
   - [Virtual Private Networks (VPNs): VPN Setup and Usage (Proton VPN)](https://github.com/Searcher121978/VPN-setup)
   - [Deploying Active Directory and Creating Users](https://github.com/Searcher121978/Deploying-Active-Directory-and-Creating-Users)
   - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-DNS-Traffic)
-  - [Observe RDP traffic](https://github.com/Searcher121978/Observe-RDP-Traffic)
   - [Network File Shares and Permissions](https://github.com/Searcher121978/Network-File-Shares-and-Permissions)
  
     
