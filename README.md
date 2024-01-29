@@ -9,7 +9,6 @@
   - [Observe SSH Traffic](https://github.com/Searcher121978/Observe-SSH-Traffic)
   - [Observe DHCP Traffic](https://github.com/Searcher121978/Observe-DHCP-Traffic)
   - [Observe DNS Traffic](https://github.com/Searcher121978/Observe-DNS-Traffic)
-  - [Virtual Private Networks (VPNs): VPN Setup and Usage (Proton VPN)](https://github.com/Searcher121978/VPN-setup)
   - [Deploying Active Directory and Creating Users Instructions](https://github.com/Searcher121978/Deploying-Active-Directory-and-Creating-Users)
   - [Domain Naming System (DNS)](https://github.com/Searcher121978/Observe-DNS-Traffic)
   - [Network File Shares and Permissions Instructions](https://github.com/Searcher121978/Network-File-Shares-and-Permissions)
